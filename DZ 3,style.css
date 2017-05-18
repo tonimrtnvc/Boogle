@@ -1,0 +1,13 @@
+#Signin{
+  background: lightblue;
+  word-spacing: normal;
+}
+#footer{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  margin: 10px;
+  word-spacing: 20px;
+  font-size: 13px;
+  font-family: sans-serif;
+}
